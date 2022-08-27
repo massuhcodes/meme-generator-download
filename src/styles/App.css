@@ -1,0 +1,6 @@
+.app {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 3px 8px 5px #222222,
+                -3px 8px 5px #222222;
+}

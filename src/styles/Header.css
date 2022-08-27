@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    align-items: center;
+    height: 65px;
+    background: #0e0c38;
+    background: linear-gradient(90deg, #0e0c38 0%, #285fba 100%);
+    color: white;
+    padding: 20px;
+    border-radius: 10px 10px 0 0;
+}
+
+img {
+    height: 100%;
+    margin-right: 6px;
+}
+
+h2 {
+    font-size: 1.25rem;
+    margin-right: auto;
+}
+
+.download {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+}
+
+.download:hover,
+.download:focus {
+    color: hotpink;
+}

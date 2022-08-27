@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Karla", sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    background-color: #313338;
+}
